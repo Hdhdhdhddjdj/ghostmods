@@ -1,1 +1,1 @@
-# ghostmod
+# ghostmods
