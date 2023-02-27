@@ -1,1 +1,1 @@
-closed
+close
